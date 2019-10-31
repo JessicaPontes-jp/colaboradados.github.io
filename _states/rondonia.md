@@ -185,6 +185,9 @@ title: 'Rondônia'
 
 - **[Portal de Transparência da Câmara Municipal de Pimenteiras do Oeste](http://transparencia.pimenteirasdooeste.ro.leg.br/portaltransparencia/)**: http://transparencia.pimenteirasdooeste.ro.leg.br/portaltransparencia/
 - **[Portal de Transparência do Município de Pimenteiras do Oeste](http://www.transparencia.pimenteirasdooeste.ro.gov.br/transparencia/)**: http://www.transparencia.pimenteirasdooeste.ro.gov.br/transparencia/
+- **[Dados na plataforma Gove](https://www.gove.digital/dados-abertos/#/pimenteiras-do-oeste-ro/geral)**: https://www.gove.digital/dados-abertos/#/pimenteiras-do-oeste-ro/geral
+- **Dados na plataforma Transparência Fly**: indisponível em 31/10/2019
+- **Dados na plataforma Município Online**: indisponível em 31/10/2019
 
 ### Porto Velho
 
